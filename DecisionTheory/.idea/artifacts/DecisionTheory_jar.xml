@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DecisionTheory:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DecisionTheory_jar</output-path>
+    <root id="archive" name="DecisionTheory.jar">
+      <element id="module-output" name="DecisionTheory" />
+    </root>
+  </artifact>
+</component>
